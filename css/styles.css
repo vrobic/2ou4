@@ -1,0 +1,16 @@
+#player {
+    width: 100%;
+    height: 315px;
+}
+.jumbotron p {
+    margin-bottom: 0;
+}
+.marketing .btn {
+    font-size: 2em;
+    font-weight: bold;
+    padding: 0 0.5em;
+}
+.marketing .btn.fail {
+    background-color: red;
+    color: white;
+}
